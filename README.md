@@ -1,6 +1,10 @@
 # internshipp_demo
 
-A new Flutter project.
+A new Flutter project to demonstrate the rich UI features. 
+The data comes from an API call from mockAPI.
+
+
+Link here (https://mockapi.io/clone/63655633f711cb49d1fbb394)
 
 ## Getting Started
 
